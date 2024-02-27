@@ -1,0 +1,5 @@
+git diff	compare working dir with staging area
+
+git diff --staged	compare sating area with previous commit
+
+---
